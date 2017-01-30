@@ -1,0 +1,29 @@
+p {
+  color: blue;
+}
+
+.first, h3 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-bottom: 20px;
+  max-width: 300px;
+}
+
+#ruby {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.second {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-bottom: 20px;
+  max-width: 500px;
+}
+
+div img {
+   max-width:430px;
+}
